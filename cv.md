@@ -3,6 +3,7 @@
 ## Contact info 
 
 **Phone Number:** +375(29)820-54-45
+
 **E-mail:** leshashahnov@gmail.com
 
 ## About me
@@ -13,4 +14,4 @@ develop and make progress. Just wanna find my own place on the way to perfection
 
 ### English level
 
-**English level** Pre-intermediate
+**English level:** Pre-intermediate
